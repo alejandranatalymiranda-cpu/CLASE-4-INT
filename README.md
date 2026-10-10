@@ -10,4 +10,4 @@ Utilizo los siguientes componentes en Claude:
 
   ---
 
-  Adjunto Link [(INDICADORES)(https://app.netlify.com/teams/alejandranatalymiranda/projects)]
+  Adjunto Link [[INDICADORES](https://app.netlify.com/teams/alejandranatalymiranda/projects)]
